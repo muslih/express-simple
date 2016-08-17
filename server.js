@@ -41,6 +41,6 @@ app.post('/ingredients', function(req,res){
   res.status(200).send("Berhasil POST data ingredient");
 });
 
-app.listen(6060,function(){
+app.listen(6000,function(){
   console.log('Server jalan di port 6060 men!');
 });
