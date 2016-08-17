@@ -3,6 +3,7 @@ A simple server base on express will allow you to create your HTTP front-end arc
 
 ##Install
 To install and run simply follow this steps:
+
 1. Clone this repo
 2. Install all depedency by using `npm install` on terminal
 3. Run server using `node server.js`
